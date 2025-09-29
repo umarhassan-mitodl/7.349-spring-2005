@@ -4,6 +4,8 @@ description: This resource includes drafts of the assignments submitted by the s
 file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/f112f0da710e4445df4e25fca1594c80_assgn2_as.pdf
 file_size: 845456
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

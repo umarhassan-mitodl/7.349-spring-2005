@@ -5,6 +5,8 @@ description: This resource includes information on protien structure prediction 
 file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/6b0af1aface1277cf30735a2ed9a1313_pres_kate.pdf
 file_size: 65769
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

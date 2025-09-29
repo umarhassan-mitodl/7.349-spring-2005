@@ -5,6 +5,8 @@ description: This resource includes information on magnetic beads, IFM, detectio
 file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/eda1a30d1caf2056812049c1f772a5d5_presjohanna.pdf
 file_size: 603431
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

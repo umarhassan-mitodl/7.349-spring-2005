@@ -5,6 +5,8 @@ description: This rsource includes information on exploration on bacterial qouru
 file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/94e555235a4e683f31c66ec4f4b99d20_kateass2.pdf
 file_size: 1171114
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

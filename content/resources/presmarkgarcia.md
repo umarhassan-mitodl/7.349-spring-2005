@@ -5,6 +5,8 @@ description: This resource includes inforamtion on the purpose, material and met
 file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/f4de32d492eea3b71f1d188460d5114f_presmarkgarcia.pdf
 file_size: 227312
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

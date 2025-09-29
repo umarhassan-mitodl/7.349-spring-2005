@@ -4,6 +4,8 @@ description: This reaource includes a draft of the assigment created by the stud
 file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/ddeca73b54b914e392823322106abc94_johanavarnerass1.pdf
 file_size: 285250
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

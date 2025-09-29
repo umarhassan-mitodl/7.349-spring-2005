@@ -4,6 +4,8 @@ description: This resource discusses the magic of magnetism.
 file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/fd3fc16199c1bc11f906492e128b4a4d_student_b_2.pdf
 file_size: 796625
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

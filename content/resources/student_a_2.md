@@ -5,6 +5,8 @@ description: This resource provides information about the polymerase chain react
 file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/bd1c8ca8c1c79e7b4742a3d4f8b482c1_student_a_2.pdf
 file_size: 1197139
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

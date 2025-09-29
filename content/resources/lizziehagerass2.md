@@ -5,6 +5,8 @@ description: This resource includes detailed information on the assignment submi
 file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/397a1745fc98080aa6f90637552f43a9_lizziehagerass2.pdf
 file_size: 740537
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

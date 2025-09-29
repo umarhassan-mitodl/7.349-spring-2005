@@ -5,6 +5,8 @@ description: This resource provides information about immunomagnetic separation 
 file: /courses/7-349-biological-computing-at-the-crossroads-of-engineering-and-science-spring-2005/4e163663897ea5f16d13ac50db7d3959_student_b_3.pdf
 file_size: 118993
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
